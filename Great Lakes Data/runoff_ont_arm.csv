@@ -1,5 +1,5 @@
-
-Year,Mon,    Flow, %gauged, #gauges, (%gauged and #gauges are monthly means) 
+(%gauged and #gauges are monthly means) 
+Year,Mon,    Flow, %gauged, #gauges,
 1901,  1,  821.94,   18.87,    1.00
 1901,  2,  550.56,   18.87,    1.00
 1901,  3, 1426.04,   18.87,    1.00
